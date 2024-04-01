@@ -30,6 +30,7 @@ Below are the topics I will thoroughly cover, providing comprehensive informatio
 * https://www.infoq.com/news/2024/03/java22-released/
 * https://symflower.com/en/company/blog/2024/what-is-new-in-java-22/
 * https://medium.com/@sanjanarjn/java-22-is-here-whats-new-and-why-it-matters-529e158f1f00
+* https://www.oracle.com/sa/news/announcement/oracle-releases-java-22-2024-03-19/
 ### Books
 * [Oracle® Certified Professional Java SE 17 Developer Practice Tests EXAM 1Z0-829](https://www.amazon.com/Oracle-Certified-Professional-Developer-Practice/dp/1119864615)
 * [OCP Oracle® Certified Professional Java SE 17 Developer Study Guide Exam 1Z0-829](https://www.amazon.com/Oracle-Certified-Professional-Developer-Study/dp/1119864585)
