@@ -1,5 +1,5 @@
 # Java 17 - Java 22
-### I've been delving into how Java is gearing up for the AI era with its advancements in Java 22.
+
 Preparing for the Shift: Navigating Changes from Java 17 to Java 22.
 
 Below are the topics I will thoroughly cover, providing comprehensive information on each:
